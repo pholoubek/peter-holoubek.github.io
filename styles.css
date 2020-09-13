@@ -3,3 +3,8 @@
   display: grid;
   place-items: center;
 }
+
+.footer {
+  color: blue;
+  text-decoration: underline;
+}
